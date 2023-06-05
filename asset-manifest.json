@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/testGoIT/static/css/main.58aab7fe.css",
+    "main.js": "/testGoIT/static/js/main.2525862c.js",
+    "static/media/picture.png": "/testGoIT/static/media/picture.b3d9942b3f9d5dad1ff0.png",
+    "index.html": "/testGoIT/index.html",
+    "main.58aab7fe.css.map": "/testGoIT/static/css/main.58aab7fe.css.map",
+    "main.2525862c.js.map": "/testGoIT/static/js/main.2525862c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58aab7fe.css",
+    "static/js/main.2525862c.js"
+  ]
+}
