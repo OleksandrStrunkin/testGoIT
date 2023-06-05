@@ -1,6 +1,5 @@
 import styles from "./Card.module.css"
 import pic from "../Image/picture.png"
-import face from "../Image/face.png"
 import logo from "../Image/Logo.png"
 
 
