@@ -1,10 +1,13 @@
-import logo from './logo.svg';
 import './App.css';
-import Card from './components/Card/Card';
+
+import CardsList from './components/CardsList/CardsList';
+
 
 function App() {
-  return (    
-      <Card/>
+  return (        
+        <div className='container'>
+          <CardsList/>
+        </div>
   );
 }
 
