@@ -25,9 +25,6 @@ This project is a subscriber card implemented in React. It utilizes Axios for ma
 2. Browse the subscriber cards.
 3. Click on a card to toggle the subscription state and increase the number of followers.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgements
 - This project was created using [Create React App](https://github.com/facebook/create-react-app).
 
